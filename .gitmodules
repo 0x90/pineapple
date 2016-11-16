@@ -1,0 +1,6 @@
+[submodule "glinetpineapple"]
+	path = glinetpineapple
+	url = https://github.com/gopher2/glinetpineapple
+[submodule "gl-ar150-pineapple-firmware-builder"]
+	path = gl-ar150-pineapple-firmware-builder
+	url = https://github.com/KhasMek/gl-ar150-pineapple-firmware-builder
