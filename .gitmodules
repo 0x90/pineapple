@@ -4,3 +4,6 @@
 [submodule "gl-ar150-pineapple-firmware-builder"]
 	path = gl-ar150-pineapple-firmware-builder
 	url = https://github.com/KhasMek/gl-ar150-pineapple-firmware-builder
+[submodule "YMail-Pineapple"]
+	path = YMail-Pineapple
+	url = https://github.com/JordanMilne/YMail-Pineapple
