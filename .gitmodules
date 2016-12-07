@@ -7,3 +7,9 @@
 [submodule "YMail-Pineapple"]
 	path = YMail-Pineapple
 	url = https://github.com/JordanMilne/YMail-Pineapple
+[submodule "hostapd-mana-openwrt"]
+	path = hostapd-mana-openwrt
+	url = https://github.com/adde88/hostapd-mana-openwrt
+[submodule "hostapd-wpe-openwrt"]
+	path = hostapd-wpe-openwrt
+	url = https://github.com/TarlogicSecurity/hostapd-wpe-openwrt
