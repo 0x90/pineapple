@@ -37,9 +37,6 @@
 [submodule "PineappleSetupGui"]
 	path = PineappleSetupGui
 	url = https://github.com/phpsystems/PineappleSetupGui
-[submodule "Pineapple-Confs"]
-	path = Pineapple-Confs
-	url = https://github.com/PenturaLabs/Pineapple-Confs
 [submodule "modules/burppineapple"]
 	path = modules/burppineapple
 	url = https://github.com/tommiionfire/burppineapple
@@ -73,3 +70,9 @@
 [submodule "tools/python-pineapple"]
 	path = tools/python-pineapple
 	url = https://github.com/735tesla/python-pineapple
+[submodule "tools/wp6"]
+	path = tools/wp6
+	url = https://github.com/hak5darren/wp6
+[submodule "warez/Pineapple-Confs"]
+	path = warez/Pineapple-Confs
+	url = https://github.com/PenturaLabs/Pineapple-Confs
