@@ -1,15 +1,3 @@
-[submodule "glinetpineapple"]
-	path = glinetpineapple
-	url = https://github.com/gopher2/glinetpineapple
-[submodule "YMail-Pineapple"]
-	path = YMail-Pineapple
-	url = https://github.com/JordanMilne/YMail-Pineapple
-[submodule "hostapd-mana-openwrt"]
-	path = hostapd-mana-openwrt
-	url = https://github.com/adde88/hostapd-mana-openwrt
-[submodule "hostapd-wpe-openwrt"]
-	path = hostapd-wpe-openwrt
-	url = https://github.com/TarlogicSecurity/hostapd-wpe-openwrt
 [submodule "wp6"]
 	path = wp6
 	url = https://github.com/hak5darren/wp6
@@ -25,9 +13,6 @@
 [submodule "mkiv_pineapple_ui"]
 	path = mkiv_pineapple_ui
 	url = https://github.com/HacDan/mkiv_pineapple_ui
-[submodule "MK5_Interface"]
-	path = MK5_Interface
-	url = https://github.com/zigrab/MK5_Interface
 [submodule "modules/l33tpass"]
 	path = modules/l33tpass
 	url = https://github.com/linkslice/l33tpass
@@ -49,27 +34,42 @@
 [submodule "gl.inet/pineapple-ar150"]
 	path = gl.inet/pineapple-ar150
 	url = https://github.com/SecurityAddicted/pineapple-ar150
-[submodule "hostapd-mana"]
-	path = hostapd-mana
-	url = https://github.com/adde88/hostapd-mana
 [submodule "PineappleSetupGui"]
 	path = PineappleSetupGui
 	url = https://github.com/phpsystems/PineappleSetupGui
 [submodule "Pineapple-Confs"]
 	path = Pineapple-Confs
 	url = https://github.com/PenturaLabs/Pineapple-Confs
-[submodule "web-interface"]
-	path = web-interface
-	url = https://github.com/PenturaLabs/web-interface
 [submodule "modules/burppineapple"]
 	path = modules/burppineapple
 	url = https://github.com/tommiionfire/burppineapple
-[submodule "python-pineapple"]
-	path = python-pineapple
-	url = https://github.com/735tesla/python-pineapple
 [submodule "Pineapple"]
 	path = Pineapple
 	url = https://github.com/RealSoap/Pineapple
 [submodule "gl.inet/glinetpineapple"]
 	path = gl.inet/glinetpineapple
 	url = https://github.com/gopher2/glinetpineapple
+[submodule "modules/YMail-Pineapple"]
+	path = modules/YMail-Pineapple
+	url = https://github.com/JordanMilne/YMail-Pineapple
+[submodule "hostapd/hostapd-mana"]
+	path = hostapd/hostapd-mana
+	url = https://github.com/adde88/hostapd-mana
+[submodule "hostapd/hostapd-mana-openwrt"]
+	path = hostapd/hostapd-mana-openwrt
+	url = https://github.com/adde88/hostapd-mana-openwrt
+[submodule "hostapd/hostapd-wpe-openwrt"]
+	path = hostapd/hostapd-wpe-openwrt
+	url = https://github.com/TarlogicSecurity/hostapd-wpe-openwrt
+[submodule "warez/mkiv_pineapple_ui"]
+	path = warez/mkiv_pineapple_ui
+	url = https://github.com/HacDan/mkiv_pineapple_ui/
+[submodule "warez/web-interface"]
+	path = warez/web-interface
+	url = https://github.com/PenturaLabs/web-interface/
+[submodule "warez/MK5_Interface"]
+	path = warez/MK5_Interface
+	url = https://github.com/zigrab/MK5_Interface/
+[submodule "tools/python-pineapple"]
+	path = tools/python-pineapple
+	url = https://github.com/735tesla/python-pineapple
