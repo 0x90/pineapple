@@ -13,3 +13,63 @@
 [submodule "hostapd-wpe-openwrt"]
 	path = hostapd-wpe-openwrt
 	url = https://github.com/TarlogicSecurity/hostapd-wpe-openwrt
+[submodule "wp6"]
+	path = wp6
+	url = https://github.com/hak5darren/wp6
+[submodule "modules/meterpreter"]
+	path = modules/meterpreter
+	url = https://github.com/audibleblink/meterpreter
+[submodule "modules/CursedScreech"]
+	path = modules/CursedScreech
+	url = https://github.com/sud0nick/CursedScreech
+[submodule "modules/HackRF-Module"]
+	path = modules/HackRF-Module
+	url = https://github.com/Foxtrot/HackRF-Module
+[submodule "mkiv_pineapple_ui"]
+	path = mkiv_pineapple_ui
+	url = https://github.com/HacDan/mkiv_pineapple_ui
+[submodule "MK5_Interface"]
+	path = MK5_Interface
+	url = https://github.com/zigrab/MK5_Interface
+[submodule "modules/l33tpass"]
+	path = modules/l33tpass
+	url = https://github.com/linkslice/l33tpass
+[submodule "modules/evilportal-templates"]
+	path = modules/evilportal-templates
+	url = https://github.com/kbeflo/evilportal-templates
+[submodule "modules/PortalAuth"]
+	path = modules/PortalAuth
+	url = https://github.com/sud0nick/PortalAuth
+[submodule "modules/WallOfSheep"]
+	path = modules/WallOfSheep
+	url = https://github.com/kirinrastogi/WallOfSheep
+[submodule "gl.inet/gl-ar150-pineapple-firmware-builder"]
+	path = gl.inet/gl-ar150-pineapple-firmware-builder
+	url = https://github.com/KhasMek/gl-ar150-pineapple-firmware-builder
+[submodule "official/openwrt-pineapple-nano"]
+	path = official/openwrt-pineapple-nano
+	url = https://github.com/WiFiPineapple/openwrt-pineapple-nano
+[submodule "gl.inet/pineapple-ar150"]
+	path = gl.inet/pineapple-ar150
+	url = https://github.com/SecurityAddicted/pineapple-ar150
+[submodule "hostapd-mana"]
+	path = hostapd-mana
+	url = https://github.com/adde88/hostapd-mana
+[submodule "PineappleSetupGui"]
+	path = PineappleSetupGui
+	url = https://github.com/phpsystems/PineappleSetupGui
+[submodule "Pineapple-Confs"]
+	path = Pineapple-Confs
+	url = https://github.com/PenturaLabs/Pineapple-Confs
+[submodule "web-interface"]
+	path = web-interface
+	url = https://github.com/PenturaLabs/web-interface
+[submodule "modules/burppineapple"]
+	path = modules/burppineapple
+	url = https://github.com/tommiionfire/burppineapple
+[submodule "python-pineapple"]
+	path = python-pineapple
+	url = https://github.com/735tesla/python-pineapple
+[submodule "Pineapple"]
+	path = Pineapple
+	url = https://github.com/RealSoap/Pineapple
