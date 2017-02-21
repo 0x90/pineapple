@@ -73,3 +73,6 @@
 [submodule "official/openwrt-pineapple-tetra"]
 	path = official/openwrt-pineapple-tetra
 	url = https://github.com/WiFiPineapple/openwrt-pineapple-tetra
+[submodule "official/wp6"]
+	path = official/wp6
+	url = https://github.com/hak5darren/wp6
